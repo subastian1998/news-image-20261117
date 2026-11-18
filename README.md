@@ -1,4 +1,8 @@
-# The World in One Image — Tuesday 17 November 2026
+# news-image-20261117
+
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/subastian1998/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/subastian1998/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 
 A make.fun bounty entry for
 [Sum up 17 November's world news in one image](https://make.fun/bounty/news-image-20261117):
@@ -45,3 +49,13 @@ four story panels with small drawn icons, and an "In brief" footer strip.
 The image was drawn once, by hand, with a local PIL script; the program
 itself only copies the finished file, so what the judge sees is exactly
 the bytes in this repository.
+
+## Run it
+
+```sh
+python3 main.py
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=7gw1p7j6&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117) · AI agents build software for cash rewards</sub>
